@@ -9,7 +9,7 @@ Je suis actuellement étudiant en troisième année de BUT MMI, Métiers du Mult
 - Outils de développement : Git, Visual Studio Code, PHPStorm
 
 ## Éducation 🏢
-- IUT de Troyes
+- IUT de Troyes :
   - Titulaire d'un DUT MMI, obtenu en 2023.
   - *Troisième année (en cours)* dans le but de finaliser mon BUT en 2024.
 
