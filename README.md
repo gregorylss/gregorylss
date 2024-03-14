@@ -4,8 +4,8 @@
 Je suis actuellement étudiant en troisième année de BUT MMI, Métiers du Multimédia et de l'Internet.
 
 ## Compétences 💪
-- Développement web : HTML, CSS, JavaScript, React, Symfony
-- Base de données : MySQL, MongoDB
+- Développement web : HTML, CSS, JavaScript, React, Symfony, Thelia, Smarty
+- Base de données : MySQL, MongoDB, Propel
 - Outils de développement : Git, Visual Studio Code, PHPStorm
 
 ## Éducation 🏢
@@ -16,4 +16,4 @@ Je suis actuellement étudiant en troisième année de BUT MMI, Métiers du Mult
 ## Centres d'intérêt 🤸‍♂️
 En dehors du code, j'aime explorer de nouvelles technologies, découvrir des choses, et faire du sport.
 
-## N'hésitez pas à explorer mes dépôts! Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. 😊
+## Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. 😊
