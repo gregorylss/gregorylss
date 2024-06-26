@@ -14,6 +14,6 @@ Je suis actuellement étudiant en troisième année de BUT MMI, Métiers du Mult
   - *Troisième année (en cours)* dans le but de finaliser mon BUT en 2024.
 
 ## Centres d'intérêt 🤸‍♂️
-En dehors du code, j'aime explorer de nouvelles technologies, découvrir des choses, et faire du sport.
+En dehors du code, j'aime explorer de nouvelles choses, faire du sport, prendre l'air...
 
 ## Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. 😊
