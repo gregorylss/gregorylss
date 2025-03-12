@@ -10,7 +10,7 @@ Je suis actuellement étudiant en troisième année de BUT MMI, Métiers du Mult
 
 ## Éducation 🏢
 - IUT de Troyes :
-  - Titulaire d'un BUT MMI, obtenu en 2024.
+- Titulaire d'un BUT MMI, obtenu en 2024.
  
 - La Rochelle Université :
 - Actuellement en master Informatique, parcours architecte logiciel.
